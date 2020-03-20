@@ -2,3 +2,4 @@ this is cheng.txt file
 
 game over
 
+new line
